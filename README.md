@@ -2,8 +2,4 @@
 ## herp derp
 
 ---
-Farts
-  Code Farts
->block
->farts
->block
+Stuff and things
